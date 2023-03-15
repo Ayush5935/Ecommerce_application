@@ -181,11 +181,21 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
 ## Registration Form 
 
 
 
 ![WhatsApp Image 2023-03-15 at 21 19 30](https://user-images.githubusercontent.com/64814485/225409203-d6127dbf-4091-4bac-8fa1-14d900aa6a86.jpeg)
+
+
+
+
+
 
 
 
@@ -209,6 +219,11 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
 ## Reset Password 
 
 
@@ -222,11 +237,21 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
-## Contact US =
+
+
+
+
+
+## Contact US
 
 
 
 ![WhatsApp Image 2023-03-15 at 21 27 01](https://user-images.githubusercontent.com/64814485/225410690-554e3632-3784-4ede-9835-de351efe316d.jpeg)
+
+
+
+
+
 
 
 
@@ -240,6 +265,11 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
 ## Admin Panel 
 
 
@@ -248,10 +278,21 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
 ## Admin Panel - Create Category 
 
 
 ![WhatsApp Image 2023-03-15 at 21 22 27](https://user-images.githubusercontent.com/64814485/225411955-469c2ac9-8d27-4829-927f-eca7368be649.jpeg)
+
+
+
+
+
+
 
 
 ## Admin Panel - Create New Product
@@ -262,10 +303,21 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
+
 ## Admin - View All Product List 
 
 
 ![WhatsApp Image 2023-03-15 at 21 24 02](https://user-images.githubusercontent.com/64814485/225412400-e9819eee-c081-4641-a775-a13e6ae83750.jpeg)
+
+
+
+
+
 
 
 
@@ -287,10 +339,22 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
+
 ## Product Cart 
 
 
 ![WhatsApp Image 2023-03-15 at 21 24 43](https://user-images.githubusercontent.com/64814485/225412618-7f88886e-1089-4146-90b4-393be0aef3aa.jpeg)
+
+
+
+
+
+
 
 
 
@@ -301,10 +365,68 @@ The payment gateway used in this project is either PayPal or a credit/debit card
 
 
 
+
+
+
+
+
+
 ## Payment - By using PayPal
 
 
 
 ![WhatsApp Image 2023-03-15 at 21 26 01](https://user-images.githubusercontent.com/64814485/225413203-41e08525-61f6-4dc1-858c-c6c6fab813d1.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+## Moblie view of website (Responsive) 
+
+
+
+![WhatsApp Image 2023-03-16 at 00 41 58](https://user-images.githubusercontent.com/64814485/225418264-23c153ab-998c-4489-936d-1933f42a65c7.jpeg)
+
+
+
+![WhatsApp Image 2023-03-16 at 00 41 58 (1)](https://user-images.githubusercontent.com/64814485/225418325-e2168b8d-f4ad-496c-a322-1481bc8e9436.jpeg)
+
+
+![WhatsApp Image 2023-03-16 at 00 41 59](https://user-images.githubusercontent.com/64814485/225418366-fe27dcab-aa42-4819-bc5c-2f0e3ffcb540.jpeg)
+
+![WhatsApp Image 2023-03-16 at 00 41 59 (1)](https://user-images.githubusercontent.com/64814485/225418392-571212f8-fee3-48a8-bfc0-595be7f151ad.jpeg)
+
+
+
+
+
+
+
+
+
+
+# Deployment (Cyclic) : 
+
+
+
+
+ The project uses cyclic deployment for continuous updates and improvements.
+ The website is designed to provide a modern and responsive user interface that works seamlessly on all devices.
+ Cyclic deployment is an approach to deployment that involves continuously releasing new versions of the application. This allows for a faster feedback loop between developers and users, and ensures that the application is always up-to-date with the latest features and improvements.
+
+In the case of this eCommerce website project, cyclic deployment is used to continuously update and improve the application. This means that new features and improvements can be released to users more frequently, allowing for a better user experience and more rapid response to customer feedback.
+
+To implement cyclic deployment, the project likely uses a variety of tools and technologies, such as continuous integration and continuous deployment (CI/CD) pipelines, automated testing, and containerization. These tools help to automate the deployment process, allowing for faster and more reliable releases.
+
+Cyclic deployment also helps to reduce the risk of issues and downtime, as each update is released gradually and tested thoroughly before being fully deployed. This approach can result in a more stable and reliable application overall.
+
+In summary, the use of cyclic deployment in this eCommerce website project helps to ensure that the application is always up-to-date and provides a better user experience, while also minimizing the risk of issues and downtime.
 
 
