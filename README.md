@@ -19,7 +19,7 @@ Our eCommerce website is a platform that enables customers to purchase a variety
 
 https://busy-red-hatchling-garb.cyclic.app/
 
-for Admin Login (if you want) 
+for Admin Login (if you want) OR you can register as new user and explore the website 
 
 
 
